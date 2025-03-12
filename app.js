@@ -3,3 +3,5 @@ console.log("Aplicação esta se conectando ao banco de dados")
 
 console.log("pequena mudança.")
 console.log("Criado por Rodrigo Teles")
+
+console.log("Esta tudo certo por aqui ?")
